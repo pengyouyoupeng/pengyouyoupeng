@@ -1,2 +1,1 @@
-我要成为厉害的程序员！~！！！！！！！！
-[![pengyouyoupeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengyouyoupeng)](https://github.com/pengyouyoupeng/github-readme-stats)
+[![pengyouyoupeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengyouyoupeng&show_icons=true&theme=radical)](https://github.com/pengyouyoupeng/github-readme-stats)
